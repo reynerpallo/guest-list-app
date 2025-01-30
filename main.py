@@ -1,4 +1,3 @@
-# List untuk menyimpan nama tamu
 guest_list = []
 
 def display_menu():
