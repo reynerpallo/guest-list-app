@@ -21,3 +21,6 @@ Aplikasi sederhana untuk mencatat nama tamu yang berkunjung ke portofolio.
     ```
 
 ## Struktur Proyek
+
+## Lisensi
+MIT
